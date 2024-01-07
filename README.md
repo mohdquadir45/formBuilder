@@ -1,8 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Steps  to run application :
+clone application the application links : https://github.com/mohdquadir45/formBuilder
+install npm : npm install
+For Front End go to directory server\clone_project and Run npm install and than run npm run dev command.
+For backend go to directory server\clone_project\backend and than run npm install and than run npm run server
